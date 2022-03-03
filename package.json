@@ -1,0 +1,19 @@
+{
+  "name": "p2-cms-integration-client",
+  "version": "1.0.0",
+  "description": "CMS Integration - Client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmt-21-uppsala-fox/p2-cms-integration-client.git"
+  },
+  "author": "ignaways",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmt-21-uppsala-fox/p2-cms-integration-client/issues"
+  },
+  "homepage": "https://github.com/rmt-21-uppsala-fox/p2-cms-integration-client#readme"
+}
